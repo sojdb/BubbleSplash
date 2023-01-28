@@ -1,0 +1,27 @@
+Game Rules:
+
+Classic:
+Click the bubbles before they disappear! But beware of the RED ones,
+they may not be so good for you...
+
+REGULAR BUBBLE - awarded 1 point if popped. If you fail to click the bubble in time
+or miss the bubble, the game will end.
+PINK BUBBLE - multiplies your current score by 2. The game will not end if you don't click
+the bubble, but it will end if you misclick.
+RED BUBBLE - a negative bubble all around. If you click the bubble, the game will end.
+If you click anywhere else on the screen, the game will end. You HAVE to wait it out.
+GAME TIME = 30 seconds.
+EASY = 1.5 second intervals for the bubbles disappearing.
+HARD = 0.8 second intervals for the bubbles disappearing.
+
+
+Splash!:
+Click the bubbles in order of descending size (start with largest, until the smallest).
+The time is 15 seconds, so click fast!
+
+EASY = 15 bubbles drawn
+HARD = 20 bubbles drawn
+
+Free Play:
+A free play mode with no guidelines. Test your accuracy and speed by clicking the bubbles!
+To quit, press the 'Escape' button, and then click on a circle one more time!
